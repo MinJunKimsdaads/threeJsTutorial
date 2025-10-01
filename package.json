@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "description": "FlightPlan application",
+  "description": "Three JS Tutorial",
   "author": "KMJ",
   "main": "public/electron.js",
   "scripts": {
